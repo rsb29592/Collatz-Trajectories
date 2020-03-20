@@ -8,3 +8,8 @@ Instructions:
 2) compile python programm "Linear_collatz_function.py"
 3) open Matlab file "trajectories_algo.M" and compile the program.
 4) If your graphs didnt appear your did something wrong. 
+5) if you are familiar with jupiter notebooks compilation time is saved by using 
+   running the file "Linear_collatz_function.ipynb" by not having to manuely 
+   recomile the algorithm by hand each time you want to asses a specific 
+   trajectory of the collazt funtion. 
+   
